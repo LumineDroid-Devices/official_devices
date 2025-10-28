@@ -1,0 +1,59 @@
+name: JSON Validator
+
+on:
+  push:
+    branches: [bynx]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y jq > /dev/null
+          npm install -g jsonlint
+
+      - name: Validate JSON files
+        id: validate
+        run: |
+          echo "Validating JSON files..."
+          FILES="devices.json $(find API -type f -name '*.json' 2>/dev/null)"
+          invalid=0
+
+          for file in $FILES; do
+            if [ -f "$file" ]; then
+              echo "→ Checking $file ..."
+              if ! jsonlint "$file" 2>json_error.log; then
+                echo "Invalid JSON: $file"
+                echo "------ Error details ------"
+                cat json_error.log
+                echo "----------------------------"
+                invalid=1
+              fi
+            fi
+          done
+
+          if [ $invalid -ne 0 ]; then
+            echo "Some JSON files are invalid. Please fix the errors above."
+            exit 1
+          fi
+
+          echo "All JSON files are valid."
+
+      - name: Close Pull Request
+        if: ${{ failure() && github.event_name == 'pull_request_target' }}
+        uses: superbrothers/close-pull-request@v3
+        with:
+          comment: |
+            Some JSON files in this PR are invalid.
+            Please check the GitHub Actions log for detailed error messages.
+            Make sure all JSON files (devices.json and API/*.json) are valid before reopening.

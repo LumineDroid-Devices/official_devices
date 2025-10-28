@@ -1,0 +1,67 @@
+{
+  "Motorola": [
+    {
+      "name": "Motorola G45",
+      "codename": "fogos",
+      "maintainer": "heybyben",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+
+  "Xiaomi": [
+    {
+      "name": "Redmi Note 13 Pro 5G",
+      "codename": "garnet",
+      "maintainer": "StartTrueDreams",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 14 4G",
+      "codename": "tanzanite",
+      "maintainer": "Hans",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Poco F5",
+      "codename": "marble",
+      "maintainer": "Mauls",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Poco F6 / Redmi Turbo 3",
+      "codename": "peridot",
+      "maintainer": "ramshell688",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ]
+}
