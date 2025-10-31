@@ -2,7 +2,7 @@
   "response": [
     {
       "maintainer": "Mauls",
-      "currently_maintained": false,
+      "currently_maintained": true,
       "oem": "POCO",
       "device": "POCO F5",
       "filename": "LumineDroid-bynx-20251027-OFFICIAL-marble.zip",
