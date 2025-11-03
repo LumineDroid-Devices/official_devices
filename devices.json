@@ -62,6 +62,18 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "Poco F7 / Redmi Turbo 4 Pro",
+      "codename": "onyx",
+      "maintainer": "heybyben",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
