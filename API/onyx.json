@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Byben",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "POCO F7 5G  /Redmi Turbo 4 Pro",
+      "filename": "LumineDroid-bynx-20251104-OFFICIAL-onyx.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/onyx/bynx/LumineDroid-bynx-20251104-OFFICIAL-onyx.zip/download",
+      "timestamp": 1762236510,
+      "md5": "94a3547995c205e270eb1004aebd7357",
+      "sha256": "72706e45bd14e7e6ffd394a2f74e460ce433565b76647aad5c0bf7c8688284cb",
+      "size": 3989555752,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/rmdnsupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/heybyben",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
