@@ -1,9 +1,14 @@
+=== November 11, 2025 ===
+- Fixed doubletap to wake
+- Fixed dolby crash behind the scenes
+- Introduce displayfeature color service and use MIUI color modes
+- Set standard display color mode in AOD
+
 === November 4, 2025 ===
 - Initial release
 
 # Bugs
 - Camera UW
-- Dt2W
 
 # Credit
 @grewal for all resource
