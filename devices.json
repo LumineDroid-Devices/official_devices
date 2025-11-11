@@ -74,6 +74,19 @@
           "deprecated": false
         }
       ]
+
+    },
+    {
+      "name": "Poco X6 Pro / Redmi K70E",
+      "codename": "duchamp",
+      "maintainer": "Luxured",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
