@@ -1,2 +1,9 @@
+=== November 12, 2025 ===
+- overlay: set 60hz max refresh rate for AOD
+- overlay: enable battery cycle count
+- props:: Enable frame pacing for smoother visual performance
+- sepolicy: Allow thermald to read thermalconfig
+- sepolicy: Allow power hal to search thermal directories
+
 === October 28, 2025 ===
 - Initial release
