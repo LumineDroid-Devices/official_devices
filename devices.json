@@ -4,6 +4,8 @@
       "name": "Motorola G45",
       "codename": "fogos",
       "maintainer": "heybyben",
+      "github": "https://github.com/heybyben",
+      "telegram": "https://t.me/heybyben",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -19,6 +21,8 @@
       "name": "Redmi Note 13 Pro 5G",
       "codename": "garnet",
       "maintainer": "StartTrueDreams",
+      "github": "https://github.com/Hikari-Soni",
+      "telegram": "https://t.me/StartTrueDreams",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -31,6 +35,8 @@
       "name": "Redmi Note 14 4G",
       "codename": "tanzanite",
       "maintainer": "Hans",
+      "github": "https://github.com/itswill00",
+      "telegram": "https://t.me/noticesa",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -43,6 +49,8 @@
       "name": "Poco F5",
       "codename": "marble",
       "maintainer": "Mauls",
+      "github": "https://github.com/maul-s",
+      "telegram": "https://t.me/Maulanariaddy",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -55,6 +63,8 @@
       "name": "Poco F6 / Redmi Turbo 3",
       "codename": "peridot",
       "maintainer": "ramshell688",
+      "github": "https://github.com/ramshell688",
+      "telegram": "https://t.me/ramshell688",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -67,6 +77,8 @@
       "name": "Poco F7 / Redmi Turbo 4 Pro",
       "codename": "onyx",
       "maintainer": "heybyben",
+      "github": "https://github.com/heybyben",
+      "telegram": "https://t.me/heybyben",
       "supported_versions": [
         {
           "version_code": "bynx",
@@ -74,12 +86,13 @@
           "deprecated": false
         }
       ]
-
     },
     {
       "name": "Poco X6 Pro / Redmi K70E",
       "codename": "duchamp",
       "maintainer": "Luxured",
+      "github": "https://github.com/snapboss",
+      "telegram": "https://t.me/luxured",
       "supported_versions": [
         {
           "version_code": "bynx",
