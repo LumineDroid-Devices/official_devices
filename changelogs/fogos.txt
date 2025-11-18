@@ -1,2 +1,6 @@
+=== November 18, 2025 ===
+- Improve stability
+- Fixed GameSpace
+
 === October 25, 2025 ===
 - Initial release
