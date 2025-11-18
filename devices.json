@@ -101,5 +101,22 @@
         }
       ]
     }
+  ],
+
+"Samsung": [
+    {
+      "name": "Galaxy A52s 5G",
+      "codename": "a52sxq",
+      "maintainer": "Jiro",
+      "github": "https://github.com/jiro28",
+      "telegram": "https://t.me/Bugjiro688",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ]
 }
