@@ -1,3 +1,15 @@
+=== November 19, 2025 ===
+- Add feature system ui in advanced reboot
+- Add Choose on/off HDR Display
+- Fixup! Dolby heating in play music,video,etc.
+- Fixup! loudspeaker call in/out
+- Fixup! cost performance with vendor.prop
+- Fixup! freeze reboot system and recovery
+- Fixup! freeze choose reboot system/recovery
+- Change parts to sdm845-common
+- Revamp and improve per-app refresh rate, thermal profile , etc.
+- Improve stability & performance.
+
 === November 12, 2025 ===
 - Update blobs and firmware from OS2.0.210.0.VMRMIXM
 - Update blobs GPS from OS2.0.210.0.VMRMIXM
