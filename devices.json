@@ -3,7 +3,7 @@
     {
       "name": "Motorola G45",
       "codename": "fogos",
-      "maintainer": "heybyben",
+      "maintainer": "Byben",
       "github": "https://github.com/heybyben",
       "telegram": "https://t.me/heybyben",
       "supported_versions": [
@@ -90,7 +90,7 @@
     {
       "name": "Poco F7 / Redmi Turbo 4 Pro",
       "codename": "onyx",
-      "maintainer": "heybyben",
+      "maintainer": "Byben",
       "github": "https://github.com/heybyben",
       "telegram": "https://t.me/heybyben",
       "supported_versions": [
