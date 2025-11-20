@@ -1,0 +1,33 @@
+=== November 20, 2025 ===
+- Merge security patch November 2025
+- Added option for restart SytemUI
+- Added clockfont lockscreen
+
+=== November 11, 2025 ===
+- Added Sidebar
+- Added Auto Brightness toggle in QS Panel
+- Added new custom fonts and icon signal
+- Introduced Colored Icons and 4G → LTE switch option
+- Added Haptic feedback for Brightness Bar
+- Added hide location and media privacy indicator
+- Switched to LumineLauncher (based on Launcher3)
+- Fixed Screen Recording issues in GameSpace
+- Revamped UI color scheme in Lumine Recovery
+- Minor design adjustments in About Phone
+- And more improvements under the hood
+
+=== October 10, 2025 ===
+- Initial build based on Android 16
+- Added Lumine Extensions customization features
+- Improved status bar with network traffic indicator and updated system icons
+- Added spoof keybox and PIF JSON for Play Integrity compatibility
+- Redesigned “About Phone” page with LumineDroid branding
+- Merged latest October 2025 security patches
+- Optimized performance and memory management
+- Improved battery efficiency under high load
+- Updated system UI components for better consistency
+- Various under-the-hood fixes and stability improvements
+
+=== About Integrity ===
+For integrity? I honestly don’t care much about that.
+Just go to **Settings** and import your valid **PIF** and **Keybox**.
