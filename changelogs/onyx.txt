@@ -1,3 +1,9 @@
+=== November 20, 2025 ===
+- Update blobs from OS2.0.204.0.VOLMIXM
+- Fixed refresh rate drops when enabling adaptive refresh rate
+- Runs at 60Hz on the lock screen
+- Sets the preferred refresh rate on the keyguard to 60
+
 === November 11, 2025 ===
 - Fixed doubletap to wake
 - Fixed dolby crash behind the scenes
