@@ -1,4 +1,21 @@
 {
+  "ADVAN": [
+    {
+      "name": "ADVAN X1",
+      "codename": "X1",
+      "maintainer": "Luigiee",
+      "github": "https://github.com/fourninesix",
+      "telegram": "https://t.me/Luigiee",
+      "supported_versions": [
+        {
+          "version_code": "bynx",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+
   "Motorola": [
     {
       "name": "Motorola G45",
