@@ -4,7 +4,9 @@ These are the devices currently **maintained officially** by the **LumineDroid T
 
 | Device | Codename | Maintainer |
 |--------|-----------|-------------|
+| ADVAN X1 | X1 | [Luigiee](https://t.me/Luigiee) |
 | Motorola G34/G45 | fogos | [Byben](https://t.me/heybyben) |
+| Redmi Note 12 4G | topaz | [Hexaboo](https://t.me/Kizziama) |
 | Redmi Note 13 Pro 5G / POCO X6 5G | garnet | [Soni-Hikari](https://t.me/StartTrueDreams) |
 | Redmi Note 14 4G | tanzanite | [Hans](https://t.me/noticesa) |
 | POCO F5 5G | marble | [Mauls](https://t.me/Maulanariaddy) |
