@@ -1,3 +1,8 @@
+=== November 26, 2025 ===
+- Updated the latest source
+- Switched to the WakacaW kernel
+- Fixed screen shutdown when the temperature is too high
+
 === November 18, 2025 ===
 - Improve stability
 - Fixed GameSpace
