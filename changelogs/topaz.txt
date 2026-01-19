@@ -1,9 +1,0 @@
-=== November 21, 2025 ===
-- Initial release
-
-# Bugs
-- Offline charging
-
-# Credit
-@dblenk9 for all resource
-@Faklox @SpfRafz for test

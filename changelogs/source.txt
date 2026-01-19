@@ -1,33 +1,32 @@
-=== November 20, 2025 ===
-- Merge security patch November 2025
-- Added option for restart SytemUI
-- Added clockfont lockscreen
-
-=== November 11, 2025 ===
-- Added Sidebar
-- Added Auto Brightness toggle in QS Panel
-- Added new custom fonts and icon signal
-- Introduced Colored Icons and 4G → LTE switch option
-- Added Haptic feedback for Brightness Bar
-- Added hide location and media privacy indicator
-- Switched to LumineLauncher (based on Launcher3)
-- Fixed Screen Recording issues in GameSpace
-- Revamped UI color scheme in Lumine Recovery
-- Minor design adjustments in About Phone
-- And more improvements under the hood
-
-=== October 10, 2025 ===
-- Initial build based on Android 16
-- Added Lumine Extensions customization features
-- Improved status bar with network traffic indicator and updated system icons
-- Added spoof keybox and PIF JSON for Play Integrity compatibility
-- Redesigned “About Phone” page with LumineDroid branding
-- Merged latest October 2025 security patches
-- Optimized performance and memory management
-- Improved battery efficiency under high load
-- Updated system UI components for better consistency
-- Various under-the-hood fixes and stability improvements
-
-=== About Integrity ===
-For integrity? I honestly don’t care much about that.
-Just go to **Settings** and import your valid **PIF** and **Keybox**.
+2026-01-27
+bellflower
+- Based on android-16.0.0_r4  BP4A
+- January security patch
+- Add support FaceUnlock
+- Add support AppLock
+- Add support CloneApp
+- Add support GameSpace
+- Add support black theme for dark mode
+- Add statusbar Network Traffic
+- Add incall vibration options
+- Add toggle for Smart 5G
+- Add three-fingers-swipe to screenshot
+- Add force full screen apps
+- Add less boring headsup option
+- Allow to change brightness slider positioning
+- Add QS show auto brightness
+- Allow using 4G icon instead LTE
+- Add Option to Display Data Disabled Indicator Icon
+- Add satusbar colored icons
+- Add pulse visualizer
+- Add lockscreen media art
+- Allow disabling ripple effect on unlock
+- Add spoofing features
+- Add advanced restart with global actions
+- Add LMOFreeform and Sidebar
+- Add font picker from ThemePicker
+- Allow toggling privacy indicator
+- Add show daily data usage in QS footer
+- Add toggle to enable brightness slider haptic feedback
+- Launcher 3 as default launcher
+- Silence logs spam

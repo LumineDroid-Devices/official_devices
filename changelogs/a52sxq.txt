@@ -1,5 +1,0 @@
-=== November 19, 2025 ===
-- Initial release
-
-# Known bug:
-- VoLTE/VoWIFI (Samsung's implementation doesn't work on AOSP)
