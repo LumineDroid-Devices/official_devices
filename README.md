@@ -6,13 +6,11 @@ These are the devices currently **maintained officially** by the **LumineDroid T
 |--------|-----------|-------------|
 | ADVAN X1 | X1 | [Luigiee](https://t.me/Luigiee) |
 | Motorola G34/G45 | fogos | [Byben](https://t.me/heybyben) |
-| Redmi Note 12 4G | topaz | [Hexaboo](https://t.me/Kizziama) |
 | Redmi Note 13 Pro 5G / POCO X6 5G | garnet | [Soni-Hikari](https://t.me/StartTrueDreams) |
 | Redmi Note 14 4G | tanzanite | [Hans](https://t.me/noticesa) |
 | POCO F5 5G | marble | [Mauls](https://t.me/Maulanariaddy) |
 | POCO F6 5G / Redmi Turbo 3 | peridot | [ramshell688](https://t.me/ramshell688) |
 | POCO F7 5G / Redmi Turbo 4 Pro | onyx | [Byben](https://t.me/heybyben) |
-| POCO X6 Pro 5G / Redmi K70E | duchamp | [Luxured](https://t.me/Luxured) |
 | Galaxy A52s 5G | a52sxq | [Jiro](https://t.me/Bugjiro688)
 
 ---
