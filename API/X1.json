@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Luigiee",
+      "currently_maintained": true,
+      "oem": "ADVAN",
+      "device": "ADVAN X1",
+      "filename": "LumineDroid-bellflower-20260125-OFFICIAL-X1.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/X1/bellflower/LumineDroid-bellflower-20260125-OFFICIAL-X1.zip/download",
+      "timestamp": 1769347139,
+      "md5": "d2fb174c4548e8dc3bb9c50135087960",
+      "sha256": "6ff8ca021891c3f6ee29ac5eefa1e70fb3d263a7a58465e9230a6755ec8f3218",
+      "size": 2048779564,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/copycatfr",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/fourninesix",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

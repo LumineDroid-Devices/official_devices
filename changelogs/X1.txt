@@ -1,0 +1,5 @@
+=== January 31, 2026 ===
+- Initial BP4A release
+- Enable Blur by Default
+- Tuned memory profile specifically 8GB
+- Applied various performance tweaks
