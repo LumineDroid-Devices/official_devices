@@ -1,0 +1,36 @@
+=== February 11, 2026 ===
+- Initial BP4A release
+- Enable Blur by Default
+- Always use lz4 performance
+- Disable high performance trasitions
+- Applied various performance tweaks
+
+=== November 19, 2025 ===
+- Add feature system ui in advanced reboot
+- Add Choose on/off HDR Display
+- Fixup! Dolby heating in play music,video,etc.
+- Fixup! loudspeaker call in/out
+- Fixup! cost performance with vendor.prop
+- Fixup! freeze reboot system and recovery
+- Fixup! freeze choose reboot system/recovery
+- Change parts to sdm845-common
+- Revamp and improve per-app refresh rate, thermal profile , etc.
+- Improve stability & performance.
+
+=== November 12, 2025 ===
+- Update blobs and firmware from OS2.0.210.0.VMRMIXM
+- Update blobs GPS from OS2.0.210.0.VMRMIXM
+- Fixed! Calibrate GPS error in Calibrate
+- Disable dynamic FPS
+- Disable flicker for HDR & Video
+- Relax timer refresh rate
+- Implement adaptive color refresh rate
+- Correct audio merge tag CLO
+- Add GameBar New Application
+- overlay: Debounce auto brightness lowers
+- Improve zram lzo-lre
+- Fixed! 5Gghz hotspot
+- Add silence spam logcat sensorservice
+
+=== October 28, 2025 ===
+- Initial release
