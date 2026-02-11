@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Mauls",
+      "currently_maintained": true,
+      "oem": "POCO",
+      "device": "POCO F5",
+      "filename": "LumineDroid-bellflower-20260209-OFFICIAL-marble.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/marble/bellflower/LumineDroid-bellflower-20260209-OFFICIAL-marble.zip/download",
+      "timestamp": 1770612409,
+      "md5": "07c79c93038cf95d1fb6960906099df3",
+      "sha256": "354d6c39c1e7fde04810fe1f502d261d9ddf658e14067bcc3c456e548be4afae",
+      "size": 2860897054,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/mauls_build",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/maulanariady",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
