@@ -2,7 +2,7 @@ name: JSON Validator
 
 on:
   push:
-    branches: [bynx]
+    branches: [bynx, bellflower]
   pull_request_target:
     types: [opened]
 
