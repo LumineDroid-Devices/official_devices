@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Jiro",
+      "currently_maintained": true,
+      "oem": "Samsung",
+      "device": "Galaxy A52s 5G",
+      "filename": "LumineDroid-bellflower-20260217-OFFICIAL-a52sxq.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/a52sxq/bellflower/LumineDroid-bellflower-20260217-OFFICIAL-a52sxq.zip/download",
+      "timestamp": 1771306972,
+      "md5": "5ca0cc7d2cf477c4d3b200f1097bb109",
+      "sha256": "4b40b64d69bfaa5e851513aa7aa674e85a8ddd2b7e4ce7633957b596fdc9a9fe",
+      "size": 2099112715,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/ktcommunity1",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
