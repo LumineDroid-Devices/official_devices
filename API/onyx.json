@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Byben",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "POCO F7 / Redmi Turbo 4 Pro",
+      "filename": "LumineDroid-bellflower-20260222-OFFICIAL-onyx.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/onyx/bellflower/LumineDroid-bellflower-20260222-OFFICIAL-onyx.zip/download",
+      "timestamp": 1771781536,
+      "md5": "84d87b9ec4a88f837d2c13aa0742d62c",
+      "sha256": "a64a7c120d8682a32e96179383ae38ef4347339268f1c5cc2e677c0bdd12b203",
+      "size": 4092835403,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/wkcwproject",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/heybyben",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
