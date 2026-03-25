@@ -1,3 +1,12 @@
+=== March 25, 2026 ===
+- Update latest march security
+- Bring back non audio prebuilt
+- Bring back use lzo-lre Compression
+- Update GameBar Latest
+- Unlock max prime cpu freq in default thermal profile
+- Improve plug charge optimize
+- Improve performance & stability
+
 === February 11, 2026 ===
 - Initial BP4A release
 - Enable Blur by Default
