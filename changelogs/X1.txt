@@ -1,4 +1,8 @@
-=== January 31, 2026 ===
+=== March 24, 2026 ===
+- Rework powerhint for better efficiency
+- Many changes under the hood
+
+=== February 22, 2026 ===
 - Initial BP4A release
 - Enable Blur by Default
 - Tuned memory profile specifically 8GB

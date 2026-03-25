@@ -1,3 +1,18 @@
+=== March 20, 2026 ===
+- March security patch
+- Add pixel style lockscreen weather based OmniJaws
+- Add monet customization
+- Add ongoing action chip implementation 
+- Support per app volume
+- Support flashlight strength level
+
+=== February 16, 2026 ===
+- February security patch
+- Add statusbar clock customization
+- Allow user to custom shade blue effect
+- Reimplement font picker
+- Fix lockscreen pin transparant
+
 === January 27, 2026 ===
 - Based on android-16.0.0_r4  BP4A
 - January security patch

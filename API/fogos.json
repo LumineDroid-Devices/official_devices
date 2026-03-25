@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Byben",
+      "currently_maintained": false,
+      "oem": "Motorola",
+      "device": "Motorola G34/45 5G",
+      "filename": "LumineDroid-bellflower-20260324-OFFICIAL-fogos.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/fogos/bellflower/LumineDroid-bellflower-20260324-OFFICIAL-fogos.zip/download",
+      "timestamp": 1774360061,
+      "md5": "04c34fabf63691ed44a1b05f8a3d6a1c",
+      "sha256": "1d20c76ad1e70c6a053b7f14294c9a466b59d39f066ee65b4a52a5d43f3b1f76",
+      "size": 2255447280,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/wkcwproject",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/heybyben",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
