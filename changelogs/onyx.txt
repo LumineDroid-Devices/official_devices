@@ -1,2 +1,8 @@
+=== March 27, 2026 ===
+- Update blobs from OS3.0.6.0.WOLMIXM
+- Switch thermal config to mgame
+- Add support DolbyAtmos
+- Add support 240hz touch sampling rate
+
 === February 23, 2026 ===
 - Initial BP4A release
