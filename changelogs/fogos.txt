@@ -1,3 +1,6 @@
+=== April 20, 2026 ===
+- Fixed black screen issue while trying to wake the device
+
 === March 26, 2026 ===
 - Fixed bad RAM management
 - Adapt powerhint from redfin
