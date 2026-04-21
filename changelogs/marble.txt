@@ -1,3 +1,30 @@
+=== April 21, 2026 ===
+- Update blobs and firmware from OS3.0.3.0.VMRMIXM
+- New update GameBar!
+- New Update Dolby Dax!
+- New Touch Polling Rate!
+- Switch audio prebuilts blobs
+- Optimize cpuset configs audio-app
+- fixup! wakeup device denials
+- Improve Gaming and Thermal Profiles
+- fixup! Set default game 120fps
+- Enable UserfaultFD based GC
+- Update sf.early.app high speed
+- Improve zram with performance
+- Improve stability and performance.
+- Merge LA.VENDOR.1.0.r2-16400-WAIPIO.QISI15.0
+- Merge audio-kernel: Merge tag LA.VENDOR.1.0.r2
+- camera-kernel: Merge tag AU_TECHPACK_CAMERA
+- display-drivers: Merge tag AU_TECHPACK_DISPLAY
+- video-driver: Merge tag AU_TECHPACK_VIDEO
+- mmrm-driver: Merge tag AU_TECHPACK_VIDEO
+- datarmnet: Merge tag LA.VENDOR.1.0.r2
+- datarmnet-ext: Merge tag LA.VENDOR.1.0.r2
+- dataipa: Merge tag LA.VENDOR.1.0.r2
+- wlan/qcacld-3.0: Merge tag LA.VENDOR.1.0.r2
+- wlan/qca-wifi-host-cmn: Merge tag LA.VENDOR.1.0.r2
+- display: dsi: Add missing max_hs_timer_supported
+
 === March 25, 2026 ===
 - Update latest march security
 - Bring back non audio prebuilt
