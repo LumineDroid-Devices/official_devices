@@ -49,6 +49,20 @@
       ]
     },
     {
+      "name": "Redmi Note 12 4G",
+      "codename": "topaz",
+      "maintainer": "Hexaboo",
+      "github": "https://github.com/Hexaboo",
+      "telegram": "https://t.me/Kizziama",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": true
+        }
+      ]
+    },
+    {
       "name": "Redmi Note 13 Pro 5G",
       "codename": "garnet",
       "maintainer": "StartTrueDreams",
@@ -115,6 +129,20 @@
           "version_code": "bellflower",
           "stable": true,
           "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Poco X6 Pro / Redmi K70E",
+      "codename": "duchamp",
+      "maintainer": "Luxured",
+      "github": "https://github.com/snapboss",
+      "telegram": "https://t.me/luxured",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": true
         }
       ]
     }
