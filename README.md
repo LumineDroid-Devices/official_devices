@@ -12,7 +12,6 @@ These are the devices currently **maintained officially** by the **LumineDroid T
 | POCO F5 5G | marble | [Mauls](https://t.me/Maulanariaddy) |
 | POCO F6 5G / Redmi Turbo 3 | peridot | [ramshell688](https://t.me/ramshell688) |
 | POCO F7 5G / Redmi Turbo 4 Pro | onyx | [Byben](https://t.me/heybyben) |
-| Galaxy A52s 5G | a52sxq | [Jiro](https://t.me/Bugjiro688)
 
 ---
 

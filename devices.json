@@ -131,7 +131,7 @@
         {
           "version_code": "bellflower",
           "stable": true,
-          "deprecated": false
+          "deprecated": true
         }
       ]
     }
