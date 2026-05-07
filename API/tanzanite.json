@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Hans",
+      "currently_maintained": true,
+      "oem": "Redmi",
+      "device": "Redmi Note 14 4G",
+      "filename": "LumineDroid-bellflower-20260507-OFFICIAL-tanzanite.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/tanzanite/bellflower/LumineDroid-bellflower-20260507-OFFICIAL-tanzanite.zip",
+      "timestamp": 1778154040,
+      "md5": "6fa553755ac057b8dec50727c081b62d",
+      "sha256": "821438c019e59b2cb0d768313e76dd290eacef9aed01311621d4e213d1f9df4c",
+      "size": 2266537670,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/noticesaa",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/itswill00",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

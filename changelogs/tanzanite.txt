@@ -1,0 +1,23 @@
+=== May 07, 2026 ===
+- tanzanite: Fix AGPS daemon crash via TLS library shim
+- tanzanite: overlay: Set default refresh rate to 90Hz
+- tanzanite: overlay: Fix refresh rate reset after reboot
+- tanzanite: Silence citsensorservice and HfLooper log spam
+- tanzanite: Resolve SEPolicy denials for Power HAL and overheat fix
+- tanzanite: Tune SurfaceFlinger for idle power efficiency
+- tanzanite: Calibrate SurfaceFlinger pipeline for low-latency composition
+- tanzanite: Bump vulkan to 1.3
+- fixup: tanzanite: Upgrade mali blobs
+- tanzanite: Disable kmem cgroup accounting
+- tanzanite: overlay: Enable vibration intensity control
+- tanzanite: Update blobs from OS2.0.214.0.VOGEUXM
+
+=== November 12, 2025 ===
+- overlay: set 60hz max refresh rate for AOD
+- overlay: enable battery cycle count
+- props:: Enable frame pacing for smoother visual performance
+- sepolicy: Allow thermald to read thermalconfig
+- sepolicy: Allow power hal to search thermal directories
+
+=== October 28, 2025 ===
+- Initial release
