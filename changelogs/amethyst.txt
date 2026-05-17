@@ -1,0 +1,6 @@
+=== May 17, 2026 ===
+- Initial BP4A release
+- Switch to power libperfmgr
+- Include Lunaris Dolby
+- Fix audio offload on whatsapp status music
+- Fix aod blinking
