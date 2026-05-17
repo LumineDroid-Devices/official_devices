@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "",
+      "currently_maintained": false,
+      "oem": "Xiaomi",
+      "device": "Redmi Note 14 Pro+ 5G",
+      "filename": "LumineDroid-bellflower-20260517-OFFICIAL-amethyst.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/amethyst/bellflower/LumineDroid-bellflower-20260517-OFFICIAL-amethyst.zip/download",
+      "timestamp": 1779025104,
+      "md5": "33cc40b47ff111e45b4eb0d64794332a",
+      "sha256": "898990235a062b363ee3c0c54cacecc674af3744c74b4bb0cfc63c2461ac714a",
+      "size": 3003739022,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/mkzusupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/mikazuuu07",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
