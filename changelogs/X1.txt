@@ -1,3 +1,14 @@
+=== May 17, 2026 ===
+- Add PriCamera
+- Tune Powerhint based on cancunf
+- Tune volumes to avoid cracking sound
+- Upgrade mali blobs
+
+Note for Pricamera:
+64MP mode still saves photos in 16MP resolution
+Dual Video Mode is disabled
+GroupPhoto Mode is disabled
+
 === March 24, 2026 ===
 - Rework powerhint for better efficiency
 - Many changes under the hood
