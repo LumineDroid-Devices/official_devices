@@ -1,3 +1,20 @@
+=== May 20, 2026 ===
+- Update latest source lumine
+- Update kernel android12-5.10-256
+- Include SUSFS & KernelSU-Next Latest
+- Added New Dolby Ui
+- Added New Touch Polling Rate Ui
+- Update parameter post boot kernel
+- Added input booost powerkey
+- Pin msm_irqbalance to system-background
+- Force kawase2 blur
+- Optimize dalvik config
+- Enable QCRIL power saving
+- Set Game Refresh Rate 120
+- Move background cpu-01
+- Update swap zram zlo-lre
+- Improve stability & performance
+
 === April 21, 2026 ===
 - Update blobs and firmware from OS3.0.3.0.VMRMIXM
 - New update GameBar!
