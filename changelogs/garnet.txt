@@ -1,0 +1,10 @@
+=== October 28, 2025 ===
+- Initial release
+
+=== October 30, 2025 ===
+- HotFix
+
+=== June 06, 2026 ===
+- Update Last garnet los source 
+- Linux version 5.10.256-うまぴょい伝説 (Ready!!Steady!! Derby!!@MT6991Z) 
+- I don't know, I'm too lazy to write it 
