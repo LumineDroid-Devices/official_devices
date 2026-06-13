@@ -8,3 +8,7 @@
 - Update Last garnet los source 
 - Linux version 5.10.256-うまぴょい伝説 (Ready!!Steady!! Derby!!@MT6991Z) 
 - I don't know, I'm too lazy to write it 
+
+=== June 13, 2026 ===
+- added back Dolby and Mi camera 
+- I don't know, I'm too lazy to write it
