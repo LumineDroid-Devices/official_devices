@@ -1,3 +1,9 @@
+=== June 13, 2026 ===
+- Fixed mic delay when making voip calls
+- Fixed stuttering audio when notifications come in on voip calls
+- Remove unused blobs and sepolicy
+- Cleanup device specific init
+
 === April 20, 2026 ===
 - Fixed black screen issue while trying to wake the device
 
