@@ -1,3 +1,10 @@
+=== June 13, 2026 ===
+- Fix 64MP mode on PriCamera
+
+Note for PriCamera:
+Dual Video Mode is disabled
+GroupPhoto Mode is disabled
+
 === May 17, 2026 ===
 - Add PriCamera
 - Tune Powerhint based on cancunf
