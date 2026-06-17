@@ -1,0 +1,11 @@
+Flash Steps:
+- first unpack the rom.zip using payload dumper, copy boot.img, dtbo.img, vendor_kernel_boot.img, vendor_boot.img
+- reboot to bootloader
+- flash boot.img, dtbo.img, vendor_kernel_boot.img
+- reboot bootloader
+- flash vendor_boot.img
+- reboot to recovery
+- flash rom.zip using adb sideload
+- format data
+- reboot to system
+- enjoy

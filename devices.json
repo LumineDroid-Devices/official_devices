@@ -16,6 +16,23 @@
     }
   ],
 
+  "Google": [
+    {
+      "name": "Pixel 7",
+      "codename": "panther",
+      "maintainer": "Mikazuuu07",
+      "github": "https://github.com/Mikazuuu07",
+      "telegram": "https://t.me/Mikazuuu07",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+
   "Motorola": [
     {
       "name": "Motorola G34/45 5G",

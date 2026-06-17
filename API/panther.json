@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Mikazuuu07",
+      "currently_maintained": true,
+      "oem": "Google",
+      "device": "Pixel 7",
+      "filename": "LumineDroid-bellflower-20260616-OFFICIAL-panther.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/panther/bellflower/LumineDroid-bellflower-20260616-OFFICIAL-panther.zip/download",
+      "timestamp": 1781712438,
+      "md5": "dca3d83b213ec63488fcc26595c44025",
+      "sha256": "6fad8a60a7aab70a832a4765f56c193735adf95f5f25b1859919f5d977c3eb29",
+      "size": 2403549488,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/mkzusupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/mikazuuu07",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
