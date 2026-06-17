@@ -1,3 +1,10 @@
+=== Jun 17, 2026 ===
+- Fixed Nfc Can't Reading TAG
+- Introduce Real Bypass Charging
+- Add Charging Limiter
+- Add Charging Speed Control
+- Include MiuiCamera
+
 === May 17, 2026 ===
 - Initial BP4A release
 - Switch to power libperfmgr
