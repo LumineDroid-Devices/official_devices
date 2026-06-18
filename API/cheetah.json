@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Mikazuuu07",
+      "currently_maintained": true,
+      "oem": "Google",
+      "device": "Pixel 7 Pro",
+      "filename": "LumineDroid-bellflower-20260616-OFFICIAL-cheetah.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/cheetah/bellflower/LumineDroid-bellflower-20260616-OFFICIAL-cheetah.zip/download",
+      "timestamp": 1781764176,
+      "md5": "9c8013a27f2a77bd4de65939b9c50d2c",
+      "sha256": "4d363bd72c9fa73c78bd83c36424795a0db934f0137afbc2326b50560ba10c16",
+      "size": 2403530100,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/mkzusupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/mikazuuu07",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

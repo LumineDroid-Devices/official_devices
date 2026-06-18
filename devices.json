@@ -18,8 +18,36 @@
 
   "Google": [
     {
+      "name": "Pixel 7 Pro",
+      "codename": "cheetah",
+      "maintainer": "Mikazuuu07",
+      "github": "https://github.com/Mikazuuu07",
+      "telegram": "https://t.me/Mikazuuu07",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
       "name": "Pixel 7",
       "codename": "panther",
+      "maintainer": "Mikazuuu07",
+      "github": "https://github.com/Mikazuuu07",
+      "telegram": "https://t.me/Mikazuuu07",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Pixel 7A",
+      "codename": "lynx",
       "maintainer": "Mikazuuu07",
       "github": "https://github.com/Mikazuuu07",
       "telegram": "https://t.me/Mikazuuu07",
