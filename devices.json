@@ -191,6 +191,20 @@
         }
       ]
     }
+    {
+      "name": "Poco X8 Pro / Redmi Turbo 5",
+      "codename": "klee",
+      "maintainer": "kylieeXD",
+      "github": "https://github.com/kylieeXD",
+      "telegram": "https://t.me/kylieeXD",
+      "supported_versions": [
+        {
+          "version_code": "bellflower",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ],
 
 "Samsung": [
