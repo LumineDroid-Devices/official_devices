@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "kylieeXD",
+      "currently_maintained": true,
+      "oem": "POCO / REDMI",
+      "device": "POCO X8 Pro / REDMI Turbo 5",
+      "filename": "LumineDroid-bellflower-20260624-OFFICIAL-klee.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/klee/bellflower/LumineDroid-bellflower-20260624-OFFICIAL-klee.zip/download",
+      "timestamp": 1782272761,
+      "md5": "0fd1db7608b0cb1aa2848e45fe8d8ab0",
+      "sha256": "3fef93b776985f57ec10fc3bbb54a2c9d18e4d1b4c662e37366eaea705170550",
+      "size": 3555749468,
+      "version": "bellflower",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/CilokDiscussion",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/kylieeXD",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
