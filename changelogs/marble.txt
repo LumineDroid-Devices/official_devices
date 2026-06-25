@@ -1,3 +1,18 @@
+=== Jun 25, 2026 ===
+- Update latest source lumine
+- Added performance control (Thanks SMGReborn)
+- Enable VoLTE, VoWiFi and VoNR for all carriers by default
+- Added display resolution FHD or WQHD
+- Add default affinity bootarg for Waipio
+- Configure PELT half-life to 8 at boot
+- Enable allow_file_spec_access on waipio
+- Bring back Dolby Vision
+- Unlock 2.9Ghz Prime Cluster
+- Remove module QTI thermal limiter
+- Disable AptX voice property
+- Changed kotlin commits profile thermal
+- Improve stability & performance
+
 === May 20, 2026 ===
 - Update latest source lumine
 - Update kernel android12-5.10-256
