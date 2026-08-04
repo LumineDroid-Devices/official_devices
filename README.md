@@ -4,7 +4,6 @@ These are the devices currently **maintained officially** by the **LumineDroid T
 
 | Device | Codename | Maintainer |
 |--------|-----------|-------------|
-| ADVAN X1 | X1 | [Luigiee](https://t.me/Luigiee) |
 | Google Pixel 7 Pro | cheetah | [Mikazuuu07](https://t.me/Mikazuuu07) |
 | Google Pixel 7 | panther | [Mikazuuu07](https://t.me/Mikazuuu07) |
 | Google Pixel 7A | lynx | [Mikazuuu07](https://t.me/Mikazuuu07) |
